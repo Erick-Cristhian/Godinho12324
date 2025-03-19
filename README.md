@@ -1,14 +1,11 @@
 ## Bem-vindo(a) ao meu perfil
-- Sou programador em Front-end
-- Trabalho na área da programação desde 2020 (como rob)
-- Estou aberto a propostas de emprego
-- Vou fazer um projeto por semana e postar aqui no perfil!
-
+- Trabalho na área da programação desde 2024 (como rob)
+  
 ## Meu Status
  <div>
    <a href="https://github.com/Godinho12324">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Godinho12324&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godinho12324&theme=dark&layout=compact&langs_count=6"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erick-Cristhian&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Cristhian&theme=dark&layout=compact&langs_count=6"/>
 </div>
     
 <div style="display: inline_block"><br>
